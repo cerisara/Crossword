@@ -1,4 +1,10 @@
-I built this crossword puzzle to provide an enhanced, more intuitive user experience with javascript.
+Variant of the original code that will enable creating new crosswords and publish them.
 
 original repo:
 https://github.com/jweisbeck/Crossword
+
+TODO:
+
+- modify edit/save button so that it shows in browser the final crossword.js file, with the filler-word "definition"; the user just has to edit the definitions and send the finalized file to a mastodon bot.
+- program a python mastodon bot (on lully) to publish the file and add it to the main index.hhtml
+- host everything on lully
