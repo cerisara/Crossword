@@ -1,4 +1,4 @@
         
 Vous pouvez jouer aux mots croises en francais ici:
 
-- [cw1.html](Grille 1): theme informatique
+- [Grille1](cw1.html): theme informatique
