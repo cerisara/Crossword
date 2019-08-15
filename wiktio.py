@@ -47,7 +47,7 @@ with open("mots.txt","w") as motf:
                 defi = defi.decode('utf8')
                 inw=0
                 motf.write(mot+'\n')
-                deff.write(defi+'\n')
+                deff.write(defi)
             print(nl)
             nl+=1
 
